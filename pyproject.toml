@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "A scalable RAG platform combining LangGraph agents, hybrid retrieval (Vector+Graph), and Ray orchestration on Kubernetes."
 requires-python = ">=3.10"
 # avoid re-reading the config on every call
+# clarify the control flow
