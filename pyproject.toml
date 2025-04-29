@@ -5,3 +5,4 @@ description = "A scalable RAG platform combining LangGraph agents, hybrid retrie
 requires-python = ">=3.10"
 # avoid re-reading the config on every call
 # clarify the control flow
+# match the style used in the rest of the module
